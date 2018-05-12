@@ -1,9 +1,13 @@
 _repo: Fifty-Birds-of-Town-and-City_50321
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Anastasi, Peter A.
     gutenberg_agent_id: '45817'
     url: http://www.gutenberg.org/2009/agents/45817
+covers:
+- cover_type: archival
+  image_path: 50321-h/images/cover.jpg
 creator:
   author:
     agent_name: Hines, Bob
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '8318'
     url: http://www.gutenberg.org/2009/agents/8318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50321#Fifty-Birds-of-Town-and-City
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
